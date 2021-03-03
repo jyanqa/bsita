@@ -1,5 +1,7 @@
 # BSITA - Hotels' Reviews Analysis
-
+```
+Please run the code again to see entire visualizations and comments of each tasks!
+```
 
 ## Data
 Dataset is a subset of [ABSITA](http://sag.art.uniroma2.it/absita/data/) dataset.
@@ -17,6 +19,5 @@ Dataset is a subset of [ABSITA](http://sag.art.uniroma2.it/absita/data/) dataset
 - Clustering: Using K-means and Hierarchical Agglomerative Cluster methods.
 - Topic Modeling: Extracing top 3 and 8 topics of the reviews, listin representiative of each topics and visualizing them using pyLDAvis library.
 - Summarization: summary reviews to a consise and meaningful paragrahp of 50 words. 
-`lease run the code again to see all visualizations and comments of each tasks.`
 ## Author
 [Quynh-Anh Ng](https://github.com/jyanqa)
