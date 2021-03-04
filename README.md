@@ -1,6 +1,6 @@
 # BSITA - Hotels' Reviews Analysis
 ```
-Please run the code again to see entire visualizations and comments of each tasks!
+Please run the code to see entire visualizations and comments of each tasks!
 ```
 
 ## Data
